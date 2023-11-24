@@ -1,0 +1,16 @@
+{
+  "name": "signify-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "signify-ts": "weboftrust/signify-ts#development",
+    "ts-node": "^10.9.1",
+    "tsx": "^4.4.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
